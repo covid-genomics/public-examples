@@ -1,0 +1,10 @@
+{
+    "cluster_deployments": [],
+    "dependencies": {},
+    "devDependencies": {},
+    "name": "public-examples",
+    "private": false,
+    "scripts": {
+    },
+    "version": "0.1.0"
+}
